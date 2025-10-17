@@ -1,4 +1,4 @@
-CSC-365-02-2258
+-- Priscilla Garcia pgarci40@calpoly.edu --
 DROP TABLE IF EXISTS List;
 DROP TABLE IF EXISTS Teachers;
 
