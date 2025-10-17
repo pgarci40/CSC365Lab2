@@ -1,3 +1,4 @@
+-- Priscilla Garcia pgarci40@calpoly.edu --
 DROP TABLE IF EXISTS Reservations;
 DROP TABLE IF EXISTS Rooms;
 
